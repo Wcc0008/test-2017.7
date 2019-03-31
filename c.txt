@@ -1,6 +1,0 @@
-#test-2017.7
-<html>
-  <head>
-    <title>A test</title>
-  </head>
-</html>
